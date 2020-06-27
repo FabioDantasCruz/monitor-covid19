@@ -22,3 +22,12 @@ body {
       width: 100%;
     }
   }
+
+  footer{
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    margin-top: 20px;
+    padding: 15px;
+
+  }

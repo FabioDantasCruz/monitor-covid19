@@ -1,3 +1,4 @@
+[Visualizar Projeto](https://monitor-covid19.netlify.app)
 ## Monitor Covid-19
 COVID-19 Tracker Utilizando React, Charts.JS e Material UI.
 
@@ -14,6 +15,6 @@ npm start
 ```
 
 ## Ideia original:
-![Canal: JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery/)
-![Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)](https://www.youtube.com/watch?v=qNgRs9W49PQ)
+[Canal: JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery/)
+[Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)](https://www.youtube.com/watch?v=qNgRs9W49PQ)
 
